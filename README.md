@@ -1,11 +1,10 @@
 # Hello World!
 
-Test 
-TEST
-test
+*Test* 
+~TEST~
+_test_
 
 - one
 - two
+- four
 - five
-
-*BOLD*
