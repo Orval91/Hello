@@ -9,5 +9,5 @@ _test_
 - four
 - five
 
-[link](google.com)
+[link](google.com). 
 [foo.com](bar)
